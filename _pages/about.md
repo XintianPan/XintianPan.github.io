@@ -7,5 +7,5 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from [Kuang Yaming Hornors School](https://dii.nju.edu.cn/), [Nanjing University](https://www.nju.edu.cn/).
+I'm a third year undergraduate student from [Kuang Yaming Honors School](https://dii.nju.edu.cn/), [Nanjing University](https://www.nju.edu.cn/).
 My research interest includes Machine Learning, Deep Learning. Specially, I focus on Mechanistic Interpretability: to reverse engineer neural network, especially Transformer which is widely used in LLMs. 
