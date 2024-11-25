@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Here's a breif overview of my experiences, you can find my [CV](http://xintianpan.github.io/files/CV.pdf) here.
+Here's a breif overview of my experiences, you can find my [CV](http://xintianpan.github.io/files/Curriculum_Vitae.pdf) here.
 
 Education
 ======
