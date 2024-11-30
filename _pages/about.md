@@ -12,4 +12,4 @@ My research interest includes Machine Learning, Deep Learning. Specially, I focu
 
 Here's my [CV](http://xintianpan.github.io/files/Curriculum_Vitae.pdf). If you have the same research interest, feel free to contact me!
 
-Here's the demo for my ongoing research [Demo](https://xintianpan.github.io/files/demo.html)
+Here's the demo for my ongoing research [Demo](https://xintianpan.github.io/html/demo.html)
