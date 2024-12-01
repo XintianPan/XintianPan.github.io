@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Xintian Pan's Homepage"
+title                    : "Xintian Pan (潘昕田)"
 title_separator          : "-"
 name                     : &name "Xintian Pan"
 description              : &description "personal description"
